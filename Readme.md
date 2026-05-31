@@ -9,16 +9,19 @@ Automated API test suite using Python and pytest
 - pytest-html
 
 ## Project Structure
-qa-automation/
-tests/
-test_api.py
-test_first.py
-utils/
-.gitignore
-pytest.ini
-requirements.txt
-run_test.py
-Readme.md
+
+```
+qa-automation/ 
+  tests/
+    test_api.py
+    test_first.py
+  utils/
+  .gitignore
+  pytest.ini
+  requirements.txt
+  run_test.py
+  Readme.md
+```
 
 # How To Run
 1. Clone the repository
